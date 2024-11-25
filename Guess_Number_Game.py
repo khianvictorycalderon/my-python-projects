@@ -4,9 +4,9 @@ import random
 guess_try = 1
 
 # Random number
-rand = random.randint(1,20)
+rand = random.randint(1,10)
 
-print("Guess a number between 1 - 20:")
+print("Guess a number between 1 - 10:")
 while True:
     guess = int(input("-> "))
     if guess == rand:
