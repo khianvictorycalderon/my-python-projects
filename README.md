@@ -6,4 +6,4 @@ To run a python code:
 - Install Python
 - Open CMD
 - Go to your python file directory
-- type `cmd <your python file name`, example: `cmd hello.py`
+- type `cmd <your python file name>`, example: `cmd hello.py`
