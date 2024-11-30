@@ -274,6 +274,9 @@ def Activity20():
         elif ui.lower().strip() == "yes":
             noTriangle += 1
             printTriangle(noTriangle)
+        elif ui.lower().strip() == "reduce" or ui.lower().strip() == "decrease":
+            noTriangle -= 1
+            printTriangle(noTriangle)
         else:
             print(" Invalid input, try again\n")
             continue
