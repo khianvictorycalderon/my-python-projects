@@ -374,7 +374,7 @@ def Activity24(): # Importing
 
 def Activity25():
     #List
-    fruits = ["Apple","Banana","Orange","Grapes","Mango","Dalandan"]
+    fruits = ["Apple","Banana","Orange","Grapes","Mango","Dalandan"] # This is an array
     print("",fruits) # Prints all the fruits as array format
     print("",fruits[1]) # Prints Banana
     print(" -------------------")
