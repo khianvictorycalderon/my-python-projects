@@ -1,5 +1,5 @@
 
-nums = [10,20,30,40,50]
+nums = [10, 20, 30, 40, 50, 55]
 nums.append(60)
 print(nums)
 nums.insert(-1, 5)
