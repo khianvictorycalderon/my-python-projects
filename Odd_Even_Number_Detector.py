@@ -1,4 +1,3 @@
-
 ui = int(input("Enter a number: "))
 
 if ui % 2 == 0:
