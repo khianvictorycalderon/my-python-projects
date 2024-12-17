@@ -1,4 +1,4 @@
-#python demo for nested condition
+# Python demo for nested condition
 
 #Data filtration program
 
