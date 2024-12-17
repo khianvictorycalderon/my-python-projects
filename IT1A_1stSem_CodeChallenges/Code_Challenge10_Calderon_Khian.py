@@ -1,5 +1,4 @@
 max = int(input("Enter the max number of asterisks (must be an even number): "))
-half = (max // 2) - 1
 
 if not max % 2 == 0:
     print(" Must be an even number.")

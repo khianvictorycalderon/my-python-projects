@@ -1,8 +1,4 @@
-# Grocerry
-# Code Challenge 7
-
-print("Code Challenge 7 by Khian Victory D. Calderon (Grocerry)")
-
+# Grocerry System
 isBought = str(input("Did you buy a grocerry?: (Yes/No)\n"))
 if isBought.lower() == "yes":
     itemName = str(input("Name of the item:\n"))

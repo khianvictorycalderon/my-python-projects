@@ -1,5 +1,4 @@
 max = int(input(" Enter the highest number you want to be in display (Must be an odd number): \n "))
-half = max // 2 - 1
 
 if max % 2 == 0:
     print(" Must be an odd number.")
