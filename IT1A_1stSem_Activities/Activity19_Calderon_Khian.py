@@ -1,4 +1,3 @@
-
 print(" Enter 5 names, type stop to terminate names")
 
 for x in range(0,5):
