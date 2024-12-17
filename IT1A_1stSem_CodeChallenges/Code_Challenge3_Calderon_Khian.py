@@ -1,5 +1,3 @@
-print("Multiple Input Activity 3 by Khian Calderon BSIT-1A Computer Programming 1")
-
 name = input("What's your name? --> ")
 age = input("How old are you? --> ")
 email = input("What is your email? --> ")
