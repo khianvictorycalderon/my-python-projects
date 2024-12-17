@@ -1,4 +1,4 @@
-#List
+# List methods (I like to call this Array)
 
 fruits = ["Apple","Banana","Orange","Grapes","Mango","Dalandan"]
 print("",fruits) # Prints all the fruits as array format
